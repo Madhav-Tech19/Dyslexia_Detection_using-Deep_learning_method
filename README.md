@@ -40,7 +40,7 @@ Install using:
 
 ```bash
 pip install -r requirements.txt
-
+'''
 ## 📊 Dataset
 We use the publicly available Dyslexia Handwriting Dataset from Kaggle (2019) and augment it with additional handwritten samples.
 
